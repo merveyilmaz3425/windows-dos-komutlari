@@ -8,7 +8,7 @@ Yeni bir klasör oluşturur.
 Örnek:
 > mkdir Merve
 ```
-![image](https://github.com/user-attachments/assets/8f7c7b0b-f453-4adb-8d47-b3febcf0ee64)
+![photo_2024-11-16_03-05-35](https://github.com/user-attachments/assets/c6d0802a-fe0c-463e-ab6a-5374d353718d)
 
 #### rmdir Komutu
 Boş bir klasörü siler.
@@ -16,7 +16,7 @@ Boş bir klasörü siler.
 Örnek:
 > rmdir Çöp
 ```
-![image](https://github.com/user-attachments/assets/8afc642f-fe06-4a4b-83d6-928c83f43770)
+![photo_2024-11-16_03-05-40](https://github.com/user-attachments/assets/11500a3d-3094-4d6f-be61-2a681759ad31)
 
 #### cd Komutu
 Çalışma dizinini değiştirir.
@@ -24,7 +24,7 @@ Boş bir klasörü siler.
 Örnek:
 > cd Merve
 ```
-![image](https://github.com/user-attachments/assets/af54cbc4-ae9a-4931-a995-b4b62739406e)
+![photo_2024-11-16_03-05-42](https://github.com/user-attachments/assets/f852ff54-b9c7-45e3-b74f-e51a14950ed2)
 
 #### dir Komutu
 Mevcut dizindeki dosya ve klasörlerin listesini gösterir.
@@ -32,7 +32,7 @@ Mevcut dizindeki dosya ve klasörlerin listesini gösterir.
 Örnek:
 > dir
 ```
-![image](https://github.com/user-attachments/assets/5a820909-8b60-40a1-aa16-0d1beed40b0b)
+![photo_2024-11-16_03-05-45](https://github.com/user-attachments/assets/a64fa8fe-ab9d-462b-a0da-7b7936de00bd)
 
 #### tree Komutu
 Geçerli dizindeki tüm dosya ve klasörleri ağaç şeklinde gösterir.
@@ -40,7 +40,7 @@ Geçerli dizindeki tüm dosya ve klasörleri ağaç şeklinde gösterir.
 Örnek:
 > tree
 ```
-![image](https://github.com/user-attachments/assets/7b7ff878-a089-48d2-8b84-266032d51aba)
+![photo_2024-11-16_03-05-49](https://github.com/user-attachments/assets/e93cac84-63dd-4459-90fe-faec7a448357)
 
 #### rename Komutu
 Bir dosyanın veya klasörün adını değiştirir.
@@ -48,7 +48,7 @@ Bir dosyanın veya klasörün adını değiştirir.
 Örnek:
 > rename yazı.txt yazı123.txt
 ```
-![image](https://github.com/user-attachments/assets/6aea7215-ee15-40be-b8fb-48b24e5c9db6)
+![photo_2024-11-16_03-05-51](https://github.com/user-attachments/assets/efc04f3d-624e-4749-8334-81364d1f5976)
 
 ## Dosya İçeriği Gösterme ve Arama Komutları
 #### echo Komutu
@@ -57,7 +57,7 @@ Belirli bir metni ekrana yazdırır.
 Örnek:
 > echo Merve Yılmaz > yazı.txt
 ```
-![image](https://github.com/user-attachments/assets/97206f50-c24d-49b1-98cc-d35edf767d84)
+![photo_2024-11-16_03-05-55](https://github.com/user-attachments/assets/faaf95c4-5ffc-4b38-b2ff-d5836a55454d)
 
 #### type Komutu
 Bir dosyanın içeriğini ekrana yazdırır.
@@ -65,7 +65,7 @@ Bir dosyanın içeriğini ekrana yazdırır.
 Örnek:
 > type yazı.txt
 ```
-![image](https://github.com/user-attachments/assets/764b3625-6a10-465e-8b3d-0473922b8e51)
+![photo_2024-11-16_03-06-01](https://github.com/user-attachments/assets/6889e0b3-f2bd-4c48-98cc-f5c9c6088150)
 
 #### find Komutu
 Bir dosyada belirtilen kelimeyi arar.
@@ -73,7 +73,7 @@ Bir dosyada belirtilen kelimeyi arar.
 Örnek:
 > find "Merve" yazı.txt
 ```
-![image](https://github.com/user-attachments/assets/0711b74e-7e88-451d-9098-d226176cf27f)
+![photo_2024-11-16_03-06-05](https://github.com/user-attachments/assets/e26c3187-1fc4-41ee-8ddb-68051df6ed84)
 
 ## Dosya Taşıma ve Kopyalama Komutları
 #### copy Komutu
@@ -82,7 +82,7 @@ Bir dosyayı başka bir yere kopyalar.
 Örnek:
 > copy yazı.txt Yılmaz
 ```
-![image](https://github.com/user-attachments/assets/04f1e2eb-1513-471c-960e-b99f8f9e7d5f)
+![photo_2024-11-16_03-06-08](https://github.com/user-attachments/assets/1e2d7553-b259-46b7-9224-45b33a674234)
 
 #### move Komutu
 Bir dosyayı veya klasörü başka bir yere taşır.
@@ -90,7 +90,7 @@ Bir dosyayı veya klasörü başka bir yere taşır.
 Örnek:
 > move Yılmaz Yılmaz123
 ```
-![image](https://github.com/user-attachments/assets/728e62a6-4aa7-43ea-b103-b2799b60ea93)
+![photo_2024-11-16_03-06-11](https://github.com/user-attachments/assets/5fd77109-572e-4466-9b40-d6fc22c6ae4c)
 
 #### del Komutu
 Bir dosyayı siler.
@@ -98,7 +98,7 @@ Bir dosyayı siler.
 Örnek:
 > del yazı.txt
 ```
-![image](https://github.com/user-attachments/assets/85e3d71b-99d0-43c0-a56b-a0c770fdb059)
+![photo_2024-11-16_03-06-14](https://github.com/user-attachments/assets/b792df00-2261-4996-a084-c68f51a27338)
 
 # Sistem Bilgileri ve Yöneticilik Komutları
 #### driverquery Komutu
@@ -107,7 +107,7 @@ Sistemde yüklü olan tüm sürücülerin listesini gösterir.
 Örnek:
 > driverquery
 ```
-![image](https://github.com/user-attachments/assets/ae9244ed-3a5c-4055-8051-625e0532651a)
+![photo_2024-11-16_03-06-18](https://github.com/user-attachments/assets/b9ce9ffe-c0a5-4e1e-bc61-2cba3697a2e2)
 
 #### tasklist Komutu
 Çalışan tüm işlemleri listeler
@@ -115,8 +115,7 @@ Sistemde yüklü olan tüm sürücülerin listesini gösterir.
 Örnek:
 > tasklist
 ```
-![image](https://github.com/user-attachments/assets/6ecfb618-64d5-4816-8c45-b446e500cf1d)
-
+![photo_2024-11-16_03-06-20](https://github.com/user-attachments/assets/80c74412-1ed0-466f-9d45-1a884d18ceaf)
 
 #### getmac Komutu
 Bilgisayarınızdaki ağ bağdaştırıcılarının MAC adreslerini gösterir.
@@ -124,8 +123,7 @@ Bilgisayarınızdaki ağ bağdaştırıcılarının MAC adreslerini gösterir.
 Örnek:
 > getmac
 ```
-![image](https://github.com/user-attachments/assets/aea21378-7ca2-4d69-b582-1dd2970ef662)
-
+![photo_2024-11-16_03-06-23](https://github.com/user-attachments/assets/c84775bb-153e-43df-a5ba-91f0e5412f9f)
 
 #### vol Komutu
 Bir sürücünün etiketini ve seri numarasını gösterir.
@@ -133,7 +131,7 @@ Bir sürücünün etiketini ve seri numarasını gösterir.
 Örnek:
 > vol C:
 ```
-![image](https://github.com/user-attachments/assets/242a7348-5bd7-4e82-a7f1-c96fff0e521d)
+![photo_2024-11-16_03-06-25](https://github.com/user-attachments/assets/4d00ff2e-d289-4c46-a8dd-b6a601290039)
 
 #### date /T Komutu
 Günün tarihini sadece yazdırır.
@@ -141,7 +139,7 @@ Günün tarihini sadece yazdırır.
 Örnek:
 > date /T
 ```
-![image](https://github.com/user-attachments/assets/4a8a50f2-aaca-4f7f-8282-456aa0599026)
+![photo_2024-11-16_03-06-28](https://github.com/user-attachments/assets/620ce27f-7c68-4662-acb7-18f37db200fa)
 
 # Görev ve Uygulama Yönetimi Komutları
 #### taskmgr.exe Komutu
@@ -150,7 +148,7 @@ Görev Yöneticisi'ni açar.
 Örnek:
 > taskmgr.exe
 ```
-![image](https://github.com/user-attachments/assets/d97c2ed6-b867-49b6-badd-b65b3e4af3ca)
+![photo_2024-11-16_03-06-30](https://github.com/user-attachments/assets/86c5560e-732c-4d50-8264-51515200c7f7)
 
 #### notepad.exe Komutu
 Not Defteri'ni açar.
@@ -158,7 +156,7 @@ Not Defteri'ni açar.
 Örnek:
 > notepad.exe
 ```
-![image](https://github.com/user-attachments/assets/cbb7090f-5af8-4485-9164-ff3253840dc0)
+![photo_2024-11-16_03-06-33](https://github.com/user-attachments/assets/392251f5-d4ab-4ef5-b06a-d42f4e7e0006)
 
 #### pause Komutu
 Komutların çalışmasını duraklatır ve bir tuşa basılmasını bekler.
@@ -166,4 +164,4 @@ Komutların çalışmasını duraklatır ve bir tuşa basılmasını bekler.
 Örnek:
 > pause
 ```
-![image](https://github.com/user-attachments/assets/147bf9e5-0548-4932-957a-5692b72662e0)
+![photo_2024-11-16_03-06-35](https://github.com/user-attachments/assets/5a171275-1457-4cc6-99ae-a08b338a6361)
