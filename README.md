@@ -1,4 +1,4 @@
-# Windows Dos Komutları
+# Windows DOS Komutları
 Bu projede 20 tane windows dos komutları gösterilmiştir.
 
 ## Klasör ve Dosya Yönetimi Komutları
