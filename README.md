@@ -99,6 +99,8 @@ Bir dosyayı siler.
 > del yazı.txt
 ```
 ![photo_2024-11-16_03-06-14](https://github.com/user-attachments/assets/b792df00-2261-4996-a084-c68f51a27338)
+> [!NOTE]
+> Size "Emin misiniz?" şeklinde bir soru sorulacaktır. Eğer silmek istiyorsanız Y, silmek istemiyorsanız N yazınız.
 
 # Sistem Bilgileri ve Yöneticilik Komutları
 #### driverquery Komutu
